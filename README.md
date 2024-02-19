@@ -1,2 +1,2 @@
 # hello-mojo
-first mojo program
+messing around with mojo
